@@ -2,7 +2,7 @@
 
 curl -OL https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar
 curl -OL https://squizlabs.github.io/PHP_CodeSniffer/phpcbf.phar
-
+dsqdsq
 echo Chemin a scanner et réparer
 
 read varchemin
